@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "AquaPure Water Bottle",
+    "capacityMl": 750,
+    "material": "stainless-steel",
+    "color": "matte-black",
+    "price": 850,
+    "inStock": true,
+    "tags": ["insulated", "reusable"],
+    "expirationDate": "2027-12-31",
+    "image": "https://via.placeholder.com/150x150?text=AquaPure"
+  },
+  {
+    "id": 2,
+    "name": "SunnyGlass Juice Bottle",
+    "capacityMl": 500,
+    "material": "glass",
+    "color": "clear",
+    "price": 420,
+    "inStock": true,
+    "tags": ["glass", "eco-friendly"],
+    "expirationDate": "2026-08-15",
+    "image": "https://via.placeholder.com/150x150?text=SunnyGlass"
+  },
+  {
+    "id": 3,
+    "name": "PocketSip Travel Bottle",
+    "capacityMl": 350,
+    "material": "plastic",
+    "color": "sky-blue",
+    "price": 220,
+    "inStock": false,
+    "tags": ["lightweight", "budget"],
+    "expirationDate": "2025-11-30",
+    "image": "https://via.placeholder.com/150x150?text=PocketSip"
+  },
+  {
+    "id": 4,
+    "name": "ThermoMax Flask",
+    "capacityMl": 1000,
+    "material": "stainless-steel",
+    "color": "silver",
+    "price": 1400,
+    "inStock": true,
+    "tags": ["insulated", "large"],
+    "expirationDate": "2028-01-10",
+    "image": "https://via.placeholder.com/150x150?text=ThermoMax"
+  },
+  {
+    "id": 5,
+    "name": "EcoMug Bamboo Bottle",
+    "capacityMl": 600,
+    "material": "bamboo-composite",
+    "color": "natural",
+    "price": 980,
+    "inStock": true,
+    "tags": ["biodegradable", "stylish"],
+    "expirationDate": "2026-05-05",
+    "image": "https://via.placeholder.com/150x150?text=EcoMug"
+  }
+]
